@@ -123,3 +123,10 @@ Open a *new* terminal for each client instance and run:
 
 ---
 
+
+## 🧰 To-be Implemented
+
+- [ ] TLS/SSL encryption
+- [ ] User Authentication & Persistent Accounts
+- [ ] Containerization (Docker)
+- [ ] Scalability & Performance Improvements (Asynchronous I/O)
